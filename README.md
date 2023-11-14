@@ -21,7 +21,7 @@ WHY NOT STAR ⭐ THIS REPO IF YOU FIND IT HELPFUL !
 DBMS LAB 📊 -
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 | No  | ASSIGNMENT |
-| ------------- | ------------- |
+| ------------- | ------------- 
 | .  | [QUESTION PAPER](https://github.com/BEASTgg/5thsem/blob/main/DBMS/QUESTION.pdf) |
 | 1  | [ASSIGNMENT 1](https://github.com/BEASTgg/5thsem/tree/main/DBMS/ASSIGNMENT%201) |
 | 2  | [ASSIGNMENT 2](https://github.com/BEASTgg/5thsem/tree/main/DBMS/ASSIGNMENT%20%202) |
